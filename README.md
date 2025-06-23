@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/actualmayank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=actualmayank&theme=github-compact&color=orange&line=orange&point=orange&hide_border=true" alt="Mayank's GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=actualmayank&hide_border=true&bg_color=151515&color=ffffff&line=f28a00&point=f28a00" alt="Mayank's GitHub Activity Graph" />
   </a>
 </p>
 
