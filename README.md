@@ -12,11 +12,12 @@
   <a href="https://actualmayank.github.io/">
     <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" />
     <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=orange" />
+    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=orange" />
     <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=orange" />
     <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=orange" />
     <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=orange" />
+    <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=orange" />
   </a>
 </p>
 
