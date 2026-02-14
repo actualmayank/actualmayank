@@ -1,4 +1,4 @@
-# Hey, I'm Mayank 👋
+# Hey, This is Mayank :)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=f28a00&center=true&vCenter=true&width=435&lines=mayank.;developer.;creator.;night+owl." alt="Typing SVG" />
