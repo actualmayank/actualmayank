@@ -1,68 +1,76 @@
-# Hey, This is Mayank :)
-
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=f28a00&center=true&vCenter=true&width=435&lines=mayank.;developer.;creator.;night+owl." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:f28a00&height=180&section=header&text=mayank.&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" />
 </p>
-
----
-
-## 🔧 Tech Stack
 
 <p align="center">
   <a href="https://actualmayank.github.io/">
-    <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange" />
-    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=orange" />
-    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=orange" />
-    <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=orange" />
-    <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=orange" />
-    <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=orange" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F28A00&center=true&vCenter=true&width=440&lines=mayank.;developer.;creator.;night+owl." alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://actualmayank.github.io/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=actualmayank&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
-    <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=actualmayank&theme=dark&hide_border=true" />
-  </a>
+  <a href="https://actualmayank.github.io/"><img src="https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=f28a00" /></a>
+  <a href="https://linkedin.com/in/actualmayank"><img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=f28a00" /></a>
+  <a href="https://instagram.com/actualmayank"><img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=f28a00" /></a>
+  <a href="https://monkeytype.com/profile/actualmayank"><img src="https://img.shields.io/badge/monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=f28a00" /></a>
+  <img src="https://komarev.com/ghpvc/?username=actualmayank&color=f28a00&style=for-the-badge&label=VIEWS" />
 </p>
 
----
+<br>
 
-## 📈 Contribution Graph
+<!-- ===== ABOUT ===== -->
+## &nbsp;whoami
+
+```js
+const mayank = {
+  role:     "full-stack developer",
+  stack:    ["react", "node", "express", "mongo"],
+  learning: "system design & better ui/ux",
+  hobbies:  ["typing tests", "shipping side projects"],
+  awake:    "when everyone else isn't"
+};
+```
+
+<br>
+
+<!-- ===== TECH STACK ===== -->
+## 🔧 &nbsp;Tech Stack
 
 <p align="center">
-  <a href="https://actualmayank.github.io/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=actualmayank&hide_border=true&bg_color=151515&color=ffffff&line=f28a00&point=f28a00" alt="Mayank's GitHub Activity Graph" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb&theme=dark" />
 </p>
 
----
-
-## 📫 Let’s Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/actualmayank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=orange" />
-  </a>
-  <a href="https://github.com/actualmayank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=orange" />
-  </a>
-  <a href="https://instagram.com/actualmayank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=orange" />
-  </a>
-  <a href="https://monkeytype.com/profile/actualmayank">
-    <img src="https://img.shields.io/badge/Monkeytype-000?style=for-the-badge&logo=monkeytype&logoColor=orange" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,vercel,postman&theme=dark" />
 </p>
 
----
+<br>
+
+<!-- ===== STATS ===== -->
+## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=actualmayank&color=orange&style=flat" alt="visitor badge"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=actualmayank&hide_border=true&border_radius=8&background=0d1117&stroke=f28a00&ring=f28a00&fire=f28a00&currStreakLabel=f28a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actualmayank&layout=compact&hide_border=true&border_radius=8&bg_color=0d1117&title_color=f28a00&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+</p>
+
+<br>
+
+<!-- ===== ACTIVITY GRAPH ===== -->
+## 📈 &nbsp;Contribution Graph
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=actualmayank&hide_border=true&radius=8&bg_color=0d1117&color=c9d1d9&title_color=f28a00&line=f28a00&point=ffffff&area=true&area_color=f28a00" alt="Mayank's GitHub Activity Graph" />
+</p>
+
+<br>
+
+<!-- ===== FOOTER ===== -->
+<p align="center">
+  <i>"code, coffee, repeat — mostly after midnight."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f28a00,100:000000&height=120&section=footer" width="100%" />
 </p>
