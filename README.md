@@ -51,8 +51,7 @@ const mayank = {
 ## 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=actualmayank&hide_border=true&border_radius=8&background=0d1117&stroke=f28a00&ring=f28a00&fire=f28a00&currStreakLabel=f28a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=actualmayank&layout=compact&hide_border=true&border_radius=8&bg_color=0d1117&title_color=f28a00&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=actualmayank&hide_border=true&border_radius=8&background=0d1117&stroke=f28a00&ring=f28a00&fire=f28a00&currStreakLabel=f28a00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
 <br>
