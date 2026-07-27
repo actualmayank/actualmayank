@@ -38,11 +38,10 @@ const mayank = {
 ## 🔧 &nbsp;Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python&theme=dark" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,tailwind,git&theme=dark" />
 </p>
 
 <br>
